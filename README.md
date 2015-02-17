@@ -4,6 +4,7 @@
 
 1. Clone the repository to your local machine.
 2. Execute calculator.py to start the wsgi server.
+
 > python calculator.py
 
 ## How to use the calculator:
